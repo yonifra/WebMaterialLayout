@@ -1,2 +1,0 @@
-# WebMaterialLayout
-Created with CodeSandbox
